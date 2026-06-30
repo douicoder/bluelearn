@@ -203,7 +203,7 @@ The shortest path:
 Thanks to everyone who has helped shape Bluelearn.
 
 <a href="https://github.com/bluelearn-org/bluelearn/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=bluelearn-org/bluelearn" alt="Contributors" />
+  <img src="https://ghcontrib.pages.dev/image?repo=bluelearn-org%2Fbluelearn" alt="Contributors" />
 </a>
 
 ---
